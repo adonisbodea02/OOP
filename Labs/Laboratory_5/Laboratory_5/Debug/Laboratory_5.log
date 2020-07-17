@@ -1,0 +1,6 @@
+﻿  main.cpp
+a:\ubb\1st_year\oop\labs\laboratory_5\laboratory_5\main.cpp(138): warning C4804: '>=': unsafe use of type 'bool' in operation
+  Laboratory_5.vcxproj -> A:\UBB\1st_Year\OOP\Labs\Laboratory_5\Debug\Laboratory_5.exe
+a:\ubb\1st_year\oop\labs\laboratory_5\laboratory_5\dynamic_vector.h(57): warning C6386: Buffer overrun while writing to 'this->elems':  the writable size is 'dv.capacity*4' bytes, but '8' bytes might be written.
+a:\ubb\1st_year\oop\labs\laboratory_5\laboratory_5\dynamic_vector.h(76): warning C6386: Buffer overrun while writing to 'this->elems':  the writable size is 'capacity*4' bytes, but '8' bytes might be written.
+a:\ubb\1st_year\oop\labs\laboratory_5\laboratory_5\dynamic_vector.h(107): warning C6386: Buffer overrun while writing to 'new_elems':  the writable size is 'capacity*4' bytes, but '8' bytes might be written.

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Comparator&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Comparator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compare_ascending_price&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Comparator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="compare_descending_band&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Comparator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAIBAQAAAAAAAAFAQAAAAAQEAIAAABAAIAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVS_Shop_list" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAAEAA=</HashCode>
+      <FileName>CVS_ShopList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rock_Tshirt" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAhAAIgIAACgACAAIUgAQAAAAEAAACAAAhQhGAACAA=</HashCode>
+      <FileName>Domain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dynamic_vector&lt;TElement&gt;" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAACQAAIIAAAABAhEAAABAAQAgAAACAAA=</HashCode>
+      <FileName>Dynamic_Vector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Error" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAACA=</HashCode>
+      <FileName>Exception_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File_Error" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller_Error" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Validator" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rock_Tshirt_Error" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File_Repo" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAAAAAAAAACAAAAAAAAAAAAQAAQAAAAAAAAA=</HashCode>
+      <FileName>File_Repo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File_Shop_list" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAEAAAAAAAgAAAAAAAAAAAAAgAAAAEAA=</HashCode>
+      <FileName>File_ShopList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HTML_Shop_list" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAEAA=</HashCode>
+      <FileName>HTML_Shoplist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repository" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAEAABAAAAAAEAAAAAAAAAAkBAAAFAAAAAAEI=</HashCode>
+      <FileName>Repository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_list" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAACAAAAAAQABAAgACAEAAAAAAAgAIAAQA=</HashCode>
+      <FileName>ShopList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQAAAEAEACIAAgEAAAAAAAAhgCAAAAAEAAUAAAUAA=</HashCode>
+      <FileName>UI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

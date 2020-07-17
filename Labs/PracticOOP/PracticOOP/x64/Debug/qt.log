@@ -1,0 +1,3 @@
+PracticOOP.h|"A:\UBB\1st_Year\OOP\Labs\PracticOOP\PracticOOP\PracticOOP.h" -o ".\GeneratedFiles\Debug\moc_PracticOOP.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.10.1\msvc2017_64\include\QtCore" "-IC:\Qt\5.10.1\msvc2017_64\include\QtGui" "-IC:\Qt\5.10.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+PracticOOP.qrc|"A:\UBB\1st_Year\OOP\Labs\PracticOOP\PracticOOP\PracticOOP.qrc" -o ".\GeneratedFiles\qrc_PracticOOP.cpp" --name PracticOOP
+PracticOOP.ui|"A:\UBB\1st_Year\OOP\Labs\PracticOOP\PracticOOP\PracticOOP.ui" -o ".\GeneratedFiles\ui_PracticOOP.h"

@@ -1,0 +1,3 @@
+Alex 2 2
+Mihai 1 3
+Vlad 3 2

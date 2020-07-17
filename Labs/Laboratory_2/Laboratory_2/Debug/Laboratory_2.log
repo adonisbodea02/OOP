@@ -1,0 +1,35 @@
+﻿  Main.c
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(58): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(59): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(108): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(109): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(142): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(143): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(169): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(169): warning C4024: 'afisare': different types for formal and actual parameter 1
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(169): warning C4024: 'afisare': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(175): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(175): warning C4024: 'afisare': different types for formal and actual parameter 1
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(175): warning C4024: 'afisare': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(185): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(185): warning C4024: 'afisare': different types for formal and actual parameter 1
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(185): warning C4024: 'afisare': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+a:\ubb\1st year\oop\labs\laboratory_2\laboratory_2\main.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Laboratory_2.vcxproj -> A:\UBB\1st Year\OOP\Labs\Laboratory_2\Debug\Laboratory_2.exe

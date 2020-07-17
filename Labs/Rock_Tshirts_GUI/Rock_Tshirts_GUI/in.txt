@@ -1,0 +1,8 @@
+3,L,Black,50,70,https://www.hottopic.com/band-merch/shop-by-artist/green-day/,Green Day
+4,XL,White,35,75,https://www.amazon.com/Aerosmith-Boston-Budokan-White-T-Shirt/dp/B009LJKX9Y,Aerosmith
+7,S,Black,121,100,https://www.amazon.com/Roses-Floral-Bullet-Adult-T-Shirt/dp/B00UBBCB46,Guns'N'Roses
+8,M,Black,16,49,https://bestrocktshirts.com/index.php/categories/heavy-metal/accept-blind-rage-world-tour-dates-2014-udo-saxon-judas-priest-heavy-metal-new-black-t-shirt,Accept
+9,L,Black,67,85,https://www.amazon.com/Iron-Maiden-T-shirt-Trooper-British/dp/B007WSAG34,Iron Maiden
+10,XL,Grey,200,65,https://www.volbeatstore.com/products/crashed-skullwing-t-shirt,Volbeat
+12,M,Blue,197,90,https:aa,Vintersorg
+20,m,BLUE,70,100,https:sfdhf,Metallica

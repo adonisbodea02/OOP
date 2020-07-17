@@ -1,0 +1,9 @@
+1,S,Black,89,80,https://www.amplifiedclothing.com/item/278/Metallica/METALLICA-MASTER-OF-PUPPETS-Charcoal.html,Metallica
+2,M,Black,29,56,http://store.verkkopaita.com/product/567/triviumthe-crusade-t-shirt,Trivium
+3,L,Black,50,70,https://www.hottopic.com/band-merch/shop-by-artist/green-day/,Green Day
+5,M,Black,97,45,https://www.heavymetalonline.co.uk/shop/rotting-christ/rotting-christ-clothing/rotting-christ-clothing-t-shirts/rotting-christ-t-shirt-diavolus/,Rotting Christ
+6,S,White,14,67,https://judaspriest.backstreetmerch.com/t-shirts/screaming-eagle-white,Judas Priest
+7,S,Black,123,100,https://www.amazon.com/Roses-Floral-Bullet-Adult-T-Shirt/dp/B00UBBCB46,Guns'N'Roses
+8,M,Black,18,49,https://bestrocktshirts.com/index.php/categories/heavy-metal/accept-blind-rage-world-tour-dates-2014-udo-saxon-judas-priest-heavy-metal-new-black-t-shirt,Accept
+9,L,Black,67,85,https://www.amazon.com/Iron-Maiden-T-shirt-Trooper-British/dp/B007WSAG34,Iron Maiden
+11,S,blue,45,23,httpgshdgjfhg,ben

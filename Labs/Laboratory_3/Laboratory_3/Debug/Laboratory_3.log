@@ -1,0 +1,100 @@
+﻿  Dynamic_Array.c
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(56): warning C4033: 'resize' must return a value
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(138): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(138): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(138): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(138): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(141): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(141): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(141): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(141): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(144): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(144): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(144): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(144): warning C4024: 'create_medication': different types for formal and actual parameter 4
+  Controller.c
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(174): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(174): warning C4024: 'find_pos_med': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(175): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(175): warning C4024: 'update_med_price_repo': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(175): warning C4024: 'update_med_price_repo': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(185): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(185): warning C4024: 'find_pos_med': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(186): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(186): warning C4024: 'update_med_quantity_repo': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(186): warning C4024: 'update_med_quantity_repo': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(152): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(153): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(174): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(185): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(239): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(239): warning C4024: 'find_pos_med': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(240): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(240): warning C4024: 'update_med_price_repo': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(240): warning C4024: 'update_med_price_repo': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(250): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(250): warning C4024: 'find_pos_med': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(251): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(251): warning C4024: 'update_med_quantity_repo': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(251): warning C4024: 'update_med_quantity_repo': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(217): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(239): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(250): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(320): warning C4047: '==': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(324): warning C4101: 'temp': unreferenced local variable
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(340): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(418): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(418): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(418): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(418): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(420): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(420): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(420): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(420): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(422): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(422): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(422): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(422): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(424): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(424): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(424): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(424): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(446): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(446): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(446): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(446): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(448): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(448): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(448): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(448): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(450): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(450): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(450): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(450): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(452): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(452): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(452): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(452): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(471): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(471): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(471): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(471): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(473): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(473): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(473): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(473): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(475): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(475): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(475): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(475): warning C4024: 'create_medication': different types for formal and actual parameter 4
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(477): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(477): warning C4024: 'create_medication': different types for formal and actual parameter 2
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(477): warning C4024: 'create_medication': different types for formal and actual parameter 3
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(477): warning C4024: 'create_medication': different types for formal and actual parameter 4
+  Generating Code...
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\controller.c(199): warning C4716: 'get_length_ctrl': must return a value
+a:\ubb\1st year\oop\labs\laboratory_3\laboratory_3\dynamic_array.c(69): warning C4715: 'resize': not all control paths return a value
+  Laboratory_3.vcxproj -> A:\UBB\1st Year\OOP\Labs\Laboratory_3\Debug\Laboratory_3.exe

@@ -1,0 +1,3 @@
+Vegetables.qrc|"A:\UBB\1st_Year\OOP\Labs\Vegetables\Vegetables\Vegetables.qrc" -o ".\GeneratedFiles\qrc_Vegetables.cpp" --name Vegetables
+Vegetables.ui|"A:\UBB\1st_Year\OOP\Labs\Vegetables\Vegetables\Vegetables.ui" -o ".\GeneratedFiles\ui_Vegetables.h"
+Vegetables.h|"A:\UBB\1st_Year\OOP\Labs\Vegetables\Vegetables\Vegetables.h" -o ".\GeneratedFiles\Debug\moc_Vegetables.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.10.1\msvc2017_64\include\QtCore" "-IC:\Qt\5.10.1\msvc2017_64\include\QtGui" "-IC:\Qt\5.10.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB

@@ -1,0 +1,2 @@
+manage_domains closed Alex Adonis
+manage_ui open Mihai none

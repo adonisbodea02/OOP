@@ -1,0 +1,3 @@
+Legume.qrc|"A:\UBB\1st_Year\OOP\Labs\Legume\Legume\Legume.qrc" -o ".\GeneratedFiles\qrc_Legume.cpp" --name Legume
+Legume.h|"A:\UBB\1st_Year\OOP\Labs\Legume\Legume\Legume.h" -o ".\GeneratedFiles\Debug\moc_Legume.cpp" "-I.\GeneratedFiles" "-I." "-IC:\Qt\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IC:\Qt\5.10.1\msvc2017_64\include\QtCore" "-IC:\Qt\5.10.1\msvc2017_64\include\QtGui" "-IC:\Qt\5.10.1\msvc2017_64\include\QtANGLE" "-IC:\Qt\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+Legume.ui|"A:\UBB\1st_Year\OOP\Labs\Legume\Legume\Legume.ui" -o ".\GeneratedFiles\ui_Legume.h"
